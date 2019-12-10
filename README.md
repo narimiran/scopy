@@ -1,5 +1,7 @@
 # Scopy
 
+[![Run on Repl.it](https://repl.it/badge/github/narimiran/scopy)](https://repl.it/github/narimiran/scopy)
+
 Python script for searching through your digital books and cataloguing them in an easy-to-share list of files.
 
 &nbsp;
